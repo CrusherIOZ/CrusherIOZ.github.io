@@ -1,4 +1,3 @@
-name= Vortex Streams url= "#" logo= "#"
 name= 24/7 | Cheers url= "http://live.hydr0.io:2052/CrypticialZ/CrypticialZ$173810/100063" logo= "#"
 name= IN: STAR PLUS | HD url= "http://live.hydr0.io:2052/CrypticialZ/CrypticialZ$173810/99919" logo= "#"
 name= IN: STAR GOLD | HD  url= "http://live.hydr0.io:2052/CrypticialZ/CrypticialZ$173810/99920" logo= "#"
